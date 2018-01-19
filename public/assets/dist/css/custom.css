@@ -1,0 +1,20 @@
+.login-page, .register-page {
+    background: url('../img/loginbg.jpg') no-repeat center;
+    background-size: cover;
+}
+#viewlog #datatable1_wrapper > .row:last-child > div{
+	width:100%;
+}
+#viewlog #datatable1_wrapper > .row:last-child > div div.dataTables_paginate{
+	text-align: left;
+}
+.content-wrapper, .right-side {
+    min-height: 100%;
+    background-color: #ecf0f5;
+    z-index: 800;
+    width: 100%;
+    margin: 0;
+}
+body .wrapper{
+	background-color: #ecf0f5!important;
+}
